@@ -1,0 +1,35 @@
+@font-face {font-family: "SST W20 Roman";
+    src: url("../font/SSTW20Roman/font-face/"); /* IE9*/
+    src: url("../font/SSTW20Roman/font-face/?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../font/SSTW20Roman/font-face/8ccb0d14738c40917315dcc3852a8f39.woff2") format("woff2"), /* chrome、firefox */
+    url("../font/SSTW20Roman/font-face/8ccb0d14738c40917315dcc3852a8f39.woff") format("woff"), /* chrome、firefox */
+    url("../font/SSTW20Roman/font-face/8ccb0d14738c40917315dcc3852a8f39.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url("../font/SSTW20Roman/font-face/8ccb0d14738c40917315dcc3852a8f39.svg#SST W20 Roman") format("svg"); /* iOS 4.1- */
+  }
+*{
+    font-family:"SST W20 Roman" ;
+
+}
+.navbar-nav{
+    font-size: 14px;
+}
+.nav-border{
+    
+    height:30px;
+}
+.nav1{
+    font-size: 11px;
+}
+.header2{
+    font-size: 16px;
+}
+.header-2{
+    font-size: 11px;
+}
+.dokme{
+    border: solid black 1px;
+    border-radius:5px;
+    padding:0px 2px;
+
+}
+
